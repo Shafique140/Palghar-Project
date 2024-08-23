@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luxury Homes in Palghar East</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Hero Section -->
+    <section id="hero">
+        <div class="hero-content">
+            <h1>Luxury Homes in Palghar East</h1>
+            <p>Your Dream Home Awaits – Starting at ₹23 Lakhs</p>
+            <a href="#contact" class="cta-button">Book Now for ₹21,000</a>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features">
+        <div class="feature">
+            <h2>Prime Location</h2>
+            <p>Located in the serene environment of Palghar East.</p>
+        </div>
+        <div class="feature">
+            <h2>Affordable Luxury</h2>
+            <p>1 BHK homes starting at ₹23 Lakhs, all inclusive.</p>
+        </div>
+        <div class="feature">
+            <h2>Flexible Payment Plans</h2>
+            <p>Low EMIs starting from just ₹16,000 per month.</p>
+        </div>
+        <div class="feature">
+            <h2>RERA Registered</h2>
+            <p>Secure investment with registration number P99000053796.</p>
+        </div>
+    </section>
+
+    <!-- Image Gallery -->
+    <section id="gallery">
+        <h2>Explore Our Homes</h2>
+        <div class="carousel">
+            <img src="image1.jpg" alt="Property Image 1">
+            <img src="image2.jpg" alt="Property Image 2">
+            <img src="image3.jpg" alt="Property Image 3">
+        </div>
+    </section>
+
+    <!-- Payment Plans Section -->
+    <section id="payment">
+        <h2>Payment Options</h2>
+        <div class="payment-plan">
+            <h3>5% Down Payment & 95% Loan</h3>
+            <p>Affordable option for easy homeownership.</p>
+        </div>
+        <div class="payment-plan">
+            <h3>10% Down Payment & 90% Loan</h3>
+            <p>Flexibility to suit your financial needs.</p>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <form action="#" method="POST">
+            <input type="text" name="name" placeholder="Your Name" required>
+            <input type="email" name="email" placeholder="Your Email" required>
+            <input type="tel" name="phone" placeholder="Your Phone Number" required>
+            <textarea name="message" placeholder="Your Message" required></textarea>
+            <button type="submit">Submit</button>
+        </form>
+        <div class="contact-info">
+            <p>Call Us: +91 90763 24952</p>
+            <p>Email: ContactUs@skbfinestatesolutions.com</p>
+            <p>RERA Registered: P99000053796</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 SKB Finest Estate Solutions. All rights reserved.</p>
+    </footer>
+</body>
+</html>
